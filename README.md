@@ -1,4 +1,4 @@
-# K4 — Level 3A, Ngày 14: AI Evaluation & Benchmarking Pipeline (225 phút)
+# K4 — Level 3B, Ngày 14: AI Evaluation & Benchmarking Pipeline (225 phút)
 
 **AICB-P1 · Phase 1 · Ngày 14 trong 15 · K4**
 
@@ -136,17 +136,17 @@ Chi tiết từng task và checkpoints xem tại [`CHECKPOINTS.md`](CHECKPOINTS.
 
 ## Thời gian làm bài
 
-Buổi học diễn ra từ **14:15 đến 18:00**. Hoàn thành bài lab trước **17:00**; thời gian 17:00–18:00 dành cho demo và Q&A.
+Buổi học diễn ra từ **9:00 đến 12:45**. Hoàn thành bài lab trước **11:45**; thời gian 11:45–12:45 dành cho demo và Q&A.
 
 | Thời gian | Checkpoint | Hoạt động |
 |---|---|---|
-| 14:15–14:30 | **CP0** Setup | Tạo môi trường, baseline tests (42 failed), cấu hình `.env` |
-| 14:30–14:45 | **CP1** Task 1 | Hoàn thành Data Models và `overall_score` (3 passed) |
-| 14:45–15:20 | **CP2** Tasks 2–3 | Hoàn thành RAGAS metrics và LLMJudge (21 passed) |
-| 15:20–15:40 | **CP3** Tasks 4–5 | BenchmarkRunner, FailureAnalyzer (full suite 41 passed, 1 skipped) |
-| 15:40–16:35 | **CP4** Part 3 | Golden Dataset 20 QA, chạy RAG, benchmark thật và rubric |
-| 16:35–17:00 | **CP5** Part 4 | Failure analysis, 5 Whys trong `reflection.md`, copy `solution/solution.py` |
-| 17:00–18:00 | Wrap-up | Demo, review và Q&A |
+| 9:00–9:15 | **CP0** Setup | Tạo môi trường, baseline tests (42 failed), cấu hình `.env` |
+| 9:15–9:30 | **CP1** Task 1 | Hoàn thành Data Models và `overall_score` (3 passed) |
+| 9:30–10:05 | **CP2** Tasks 2–3 | Hoàn thành RAGAS metrics và LLMJudge (21 passed) |
+| 10:05–10:25 | **CP3** Tasks 4–5 | BenchmarkRunner, FailureAnalyzer (full suite 41 passed, 1 skipped) |
+| 10:25–11:20 | **CP4** Part 3 | Golden Dataset 20 QA, chạy RAG, benchmark thật và rubric |
+| 11:20–11:45 | **CP5** Part 4 | Failure analysis, 5 Whys trong `reflection.md`, copy `solution/solution.py` |
+| 11:45–12:45 | Wrap-up | Demo, review và Q&A |
 
 ---
 

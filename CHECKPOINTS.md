@@ -1,6 +1,6 @@
 # Hướng dẫn Checkpoints (CHECKPOINTS)
 
-Tài liệu này định nghĩa 6 mốc tiến độ (Checkpoints CP0–CP5) trong buổi lab AI Evaluation (14:15 – 18:00, hoàn thành bài lab trước 17:00). Mỗi checkpoint bao gồm mục tiêu thời gian, sản phẩm đầu ra, kiến thức cốt lõi và các lệnh tự kiểm tra.
+Tài liệu này định nghĩa 6 mốc tiến độ (Checkpoints CP0–CP5) trong buổi lab AI Evaluation (9:00 – 12:45, hoàn thành bài lab trước 11:45). Mỗi checkpoint bao gồm mục tiêu thời gian, sản phẩm đầu ra, kiến thức cốt lõi và các lệnh tự kiểm tra.
 
 ---
 
@@ -8,18 +8,18 @@ Tài liệu này định nghĩa 6 mốc tiến độ (Checkpoints CP0–CP5) tro
 
 | Checkpoint | Khoảng thời gian | Mốc thời gian mẫu | Nội dung trọng tâm | Kết quả kiểm tra chính |
 |---|---|---|---|---|
-| **CP0** Setup | Start + 0–15m | 14:15–14:30 | Môi trường, `.env`, baseline tests | 42 failed baseline |
-| **CP1** Data Models | Start + 15–30m | 14:30–14:45 | Task 1: `QAPair`, `EvalResult`, `overall_score` | 3 passed |
-| **CP2** Metrics | Start + 30–65m | 14:45–15:20 | Task 2–3: RAGAS metrics & LLMJudge | 21 passed, 20 failed, 1 skipped |
-| **CP3** Runner & Analyzer | Start + 65–85m | 15:20–15:40 | Task 4–5: BenchmarkRunner, FailureAnalyzer | 41 passed, 1 skipped (full suite) |
-| **CP4** Dataset & Benchmark | Start + 85–140m | 15:40–16:35 | 20 QA golden dataset, RAG run, Exercise 3.2 & 3.3 | Validator PASS, artifacts generated |
-| **CP5** Reflection & Finalize | Start + 140–165m | 16:35–17:00 | `reflection.md`, copy `solution/solution.py`, kiểm tra cuối | 41 passed, validator PASS, clean repo |
+| **CP0** Setup | Start + 0–15m | 9:00–9:15 | Môi trường, `.env`, baseline tests | 42 failed baseline |
+| **CP1** Data Models | Start + 15–30m | 9:15–9:30 | Task 1: `QAPair`, `EvalResult`, `overall_score` | 3 passed |
+| **CP2** Metrics | Start + 30–65m | 9:30–10:05 | Task 2–3: RAGAS metrics & LLMJudge | 21 passed, 20 failed, 1 skipped |
+| **CP3** Runner & Analyzer | Start + 65–85m | 10:05–10:25 | Task 4–5: BenchmarkRunner, FailureAnalyzer | 41 passed, 1 skipped (full suite) |
+| **CP4** Dataset & Benchmark | Start + 85–140m | 10:25–11:20 | 20 QA golden dataset, RAG run, Exercise 3.2 & 3.3 | Validator PASS, artifacts generated |
+| **CP5** Reflection & Finalize | Start + 140–165m | 11:20–11:45 | `reflection.md`, copy `solution/solution.py`, kiểm tra cuối | 41 passed, validator PASS, clean repo |
 
 ---
 
 ## Chi tiết từng Checkpoint
 
-### CP0 — Setup & Baseline (Start + 0–15m | 14:15–14:30)
+### CP0 — Setup & Baseline (Start + 0–15m | 9:00–9:15)
 
 - **Sản phẩm:**
   - Virtual environment `.venv` đã được tạo và kích hoạt.
@@ -36,7 +36,7 @@ Tài liệu này định nghĩa 6 mốc tiến độ (Checkpoints CP0–CP5) tro
 
 ---
 
-### CP1 — Data Models (Task 1) (Start + 15–30m | 14:30–14:45)
+### CP1 — Data Models (Task 1) (Start + 15–30m | 9:15–9:30)
 
 - **Sản phẩm:**
   - Các dataclass `QAPair` và `EvalResult` trong `template.py` có đầy đủ các trường dữ liệu và default factories.
@@ -52,7 +52,7 @@ Tài liệu này định nghĩa 6 mốc tiến độ (Checkpoints CP0–CP5) tro
 
 ---
 
-### CP2 — Metrics & LLM Judge (Tasks 2–3) (Start + 30–65m | 14:45–15:20)
+### CP2 — Metrics & LLM Judge (Tasks 2–3) (Start + 30–65m | 9:30–10:05)
 
 - **Sản phẩm:**
   - `RAGASEvaluator`:
@@ -80,7 +80,7 @@ Tài liệu này định nghĩa 6 mốc tiến độ (Checkpoints CP0–CP5) tro
 
 ---
 
-### CP3 — Runner & Failure Analyzer (Tasks 4–5) (Start + 65–85m | 15:20–15:40)
+### CP3 — Runner & Failure Analyzer (Tasks 4–5) (Start + 65–85m | 10:05–10:25)
 
 - **Sản phẩm:**
   - `BenchmarkRunner`:
@@ -110,7 +110,7 @@ Tài liệu này định nghĩa 6 mốc tiến độ (Checkpoints CP0–CP5) tro
 
 ---
 
-### CP4 — Golden Dataset & Real Benchmark (Start + 85–140m | 15:40–16:35)
+### CP4 — Golden Dataset & Real Benchmark (Start + 85–140m | 10:25–11:20)
 
 - **Sản phẩm:**
   - File `golden_dataset.json` chứa 20 QA pairs phân bổ theo stratified sampling: 5 Easy, 7 Medium, 5 Hard, 3 Adversarial.
@@ -130,7 +130,7 @@ Tài liệu này định nghĩa 6 mốc tiến độ (Checkpoints CP0–CP5) tro
 
 ---
 
-### CP5 — Reflection & Final Submission (Start + 140–165m | 16:35–17:00)
+### CP5 — Reflection & Final Submission (Start + 140–165m | 11:20–11:45)
 
 - **Sản phẩm:**
   - File `reflection.md` được điền đầy đủ: phân tích 3 failure cases bằng kỹ thuật 5 Whys, bảng failure taxonomy, improvement log và chiến lược regression testing.
