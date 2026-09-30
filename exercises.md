@@ -2,7 +2,7 @@
 
 ## AI Evaluation & Benchmarking · Lab Worksheet
 
-**Thời gian làm bài:** 9:00–11:45
+**Thời gian làm bài:** 9:15–12:00
 
 **Domain:** OrbitTech Store Customer Support
 
@@ -11,11 +11,11 @@ duy nhất trong `golden_dataset.json`, không chép lại toàn bộ vào Markd
 
 ---
 
-Từ 9:00–9:15, cài môi trường và chạy baseline tests theo `guide_lab.md`.
+Từ 9:15–9:30, cài môi trường và chạy baseline tests theo `guide_lab.md`.
 
 ---
 
-## Part 1 — Warm-up (9:15–9:30)
+## Part 1 — Warm-up (9:30–9:45)
 
 ### Exercise 1.1 — RAGAS Metric Thresholds
 
@@ -72,7 +72,7 @@ Ba bias thường gặp:
 
 ---
 
-## Part 2 — Core Coding (9:30–10:25)
+## Part 2 — Core Coding (9:45–10:40)
 
 Hoàn thiện các TODO bắt buộc trong `template.py`.
 
@@ -134,7 +134,7 @@ nếu bạn chưa làm bonus.
 
 ---
 
-## Part 3 — Golden Dataset & Real Benchmark (10:25–11:20)
+## Part 3 — Golden Dataset & Real Benchmark (10:40–11:35)
 
 ### Exercise 3.1 — Build the Golden Dataset
 
@@ -313,7 +313,7 @@ thay đổi Context Recall hay không.
 
 ---
 
-## Part 4 — Reflection (11:20–11:35)
+## Part 4 — Reflection (11:35–11:50)
 
 Hoàn thành `reflection.md` bằng kết quả thật từ Exercise 3.2.
 
@@ -321,7 +321,7 @@ Hoàn thành `reflection.md` bằng kết quả thật từ Exercise 3.2.
 
 ## Completion Checklist
 
-Hoàn thành kiểm tra cuối trong khoảng 11:35–11:45.
+Hoàn thành kiểm tra cuối trong khoảng 11:50–12:00.
 
 - [ ] Tất cả required tests pass.
 - [ ] `golden_dataset.json` validate thành công.
