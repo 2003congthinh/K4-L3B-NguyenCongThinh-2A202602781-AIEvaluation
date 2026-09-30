@@ -36,10 +36,10 @@ Mở repo nguồn trên GitHub trước khi cài đặt. Cuối pha này, bạn 
 1. Trên GitHub, chọn **Fork** và đặt tên repository theo mẫu bên dưới. Thay phần họ tên bằng tên viết liền không dấu, PascalCase; điền MSSV của chính bạn. Mỗi học viên dùng một repository riêng.
 
    ```text
-   K4-L3B-DAY14-<HoVaTen>-<MSSV>-AIEvaluation
+   K4-L3B-<HoVaTen>-<MSSV>-AIEvaluation
    ```
 
-2. Sao chép URL clone của fork từ GitHub và clone về máy. Đặt tên thư mục làm việc là `K4-DAY14-HoVaTen-MSSV`, thay hai thành phần cuối bằng thông tin của bạn. Mở thư mục này trong editor; terminal phải đứng tại nơi chứa `template.py`, `requirements.txt` và `golden_dataset.json`. Tên thư mục trên máy và tên repository GitHub có quy định riêng như trên.
+2. Sao chép URL clone của fork từ GitHub và clone về máy. Đặt tên thư mục làm việc là `K4-L3B-HoVaTen-MSSV`, thay hai thành phần cuối bằng thông tin của bạn. Mở thư mục này trong editor; terminal phải đứng tại nơi chứa `template.py`, `requirements.txt` và `golden_dataset.json`. Tên thư mục trên máy và tên repository GitHub có quy định riêng như trên.
 
 3. Trong terminal, tạo môi trường theo hệ điều hành. Với macOS/Linux, kiểm tra Python từ 3.11 trở lên rồi chạy:
 
@@ -295,10 +295,10 @@ Sau phần bắt buộc, bạn có thể làm Exercise 3.4 (**+5**) để so sá
 
 Bạn nộp **link repository GitHub cá nhân lên Codelab** theo thông báo của giảng viên hoặc coach. Trước khi gửi link, kiểm tra bài trên chính repository sẽ nộp để người chấm mở được code và báo cáo.
 
-1. Kiểm tra thư mục gốc theo mẫu `K4-DAY14-HoVaTen-MSSV` và repository GitHub theo mẫu `K4-L3B-DAY14-<HoVaTen>-<MSSV>-AIEvaluation`. Thay thông tin bằng họ tên, MSSV thật của bạn. Giữ các file starter cần chạy lại bài; bốn deliverables bắt buộc là:
+1. Kiểm tra thư mục gốc theo mẫu `K4-L3B-HoVaTen-MSSV` và repository GitHub theo mẫu `K4-L3B-<HoVaTen>-<MSSV>-AIEvaluation`. Thay thông tin bằng họ tên, MSSV thật của bạn. Giữ các file starter cần chạy lại bài; bốn deliverables bắt buộc là:
 
    ```text
-   K4-DAY14-HoVaTen-MSSV/
+   K4-L3B-HoVaTen-MSSV/
    ├── solution/solution.py
    ├── golden_dataset.json
    ├── exercises.md

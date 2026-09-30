@@ -10,7 +10,7 @@
 Cấu trúc tên repository nộp bài:
 
 ```text
-K4-L3B-DAY14-<HoVaTen>-<MSSV>-AIEvaluation
+K4-L3B-<HoVaTen>-<MSSV>-AIEvaluation
 ```
 
 - `<HoVaTen>`: Họ và tên viết liền không dấu (PascalCase).
@@ -18,7 +18,7 @@ K4-L3B-DAY14-<HoVaTen>-<MSSV>-AIEvaluation
 
 **Ví dụ:**
 ```text
-K4-L3B-DAY14-NguyenVanAn-L3A202600280-AIEvaluation
+K4-L3B-NguyenVanAn-L3A202600280-AIEvaluation
 ```
 
 > ⚠️ **Lưu ý:** Đặt sai tên repository sẽ bị trừ **5 điểm** theo quy định trong [RUBRIC.md](RUBRIC.md).
@@ -47,7 +47,7 @@ Các file sinh ra trong quá trình chạy (artifacts) là tùy chọn (optional
 
 Hãy chạy các kiểm tra sau và tích chọn đầy đủ trước khi nộp bài:
 
-- [ ] Repository đã được đặt đúng tên chuẩn: `K4-L3B-DAY14-<HoVaTen>-<MSSV>-AIEvaluation`.
+- [ ] Repository đã được đặt đúng tên chuẩn: `K4-L3B-<HoVaTen>-<MSSV>-AIEvaluation`.
 - [ ] Chạy `python validate_golden_dataset.py` báo `PASS`.
 - [ ] Toàn bộ required tests pass khi chạy `pytest tests/ -v` (41 passed, 1 skipped nếu không làm bonus).
 - [ ] `golden_dataset.json` đủ 20 QA (5 Easy + 7 Medium + 5 Hard + 3 Adversarial).

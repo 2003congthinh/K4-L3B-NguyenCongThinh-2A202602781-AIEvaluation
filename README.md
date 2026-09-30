@@ -24,8 +24,8 @@ Tài liệu chính thức của bài lab:
 | Vai trò | Tên chuẩn |
 |---|---|
 | Assignment / starter repo (repo này) | `K4-L3B-AI-Evaluation` |
-| Student submission repo | `K4-L3B-DAY14-<HoVaTen>-<MSSV>-AIEvaluation` |
-| Ví dụ | `K4-L3B-DAY14-NguyenVanAn-L3A202600280-AIEvaluation` |
+| Student submission repo | `K4-L3B-<HoVaTen>-<MSSV>-AIEvaluation` |
+| Ví dụ | `K4-L3B-NguyenVanAn-L3A202600280-AIEvaluation` |
 
 > ⚠️ **Đặt sai tên repo = trừ 5 điểm** theo quy định trong [RUBRIC.md](RUBRIC.md).
 

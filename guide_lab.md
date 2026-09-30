@@ -40,13 +40,13 @@ Nó chỉ làm I/O và format Exercise 3.2; nó không viết lại evaluation m
 Lab làm **cá nhân**. Tên repo:
 
 ```text
-K4-L3B-DAY14-<HoVaTen>-<MSSV>-AIEvaluation
+K4-L3B-<HoVaTen>-<MSSV>-AIEvaluation
 ```
 
 Ví dụ:
 
 ```text
-K4-L3B-DAY14-NguyenVanAn-L3A202600280-AIEvaluation
+K4-L3B-NguyenVanAn-L3A202600280-AIEvaluation
 ```
 
 ### Cách A — Fork repo
@@ -58,7 +58,7 @@ K4-L3B-DAY14-NguyenVanAn-L3A202600280-AIEvaluation
 
 ```bash
 git clone <URL_FORK_CUA_BAN>
-cd K4-L3B-DAY14-<HoVaTen>-<MSSV>-AIEvaluation
+cd K4-L3B-<HoVaTen>-<MSSV>-AIEvaluation
 ```
 
 ### Cách B — Tạo repo mới
