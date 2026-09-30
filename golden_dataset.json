@@ -1,0 +1,218 @@
+{
+  "schema_version": "1.0",
+  "corpus_id": "orbittech-customer-support-v1",
+  "qa_pairs": [
+    {
+      "id": "E01",
+      "difficulty": "easy",
+      "question": "",
+      "expected_answer": "",
+      "contexts": [
+        {"source_doc": "", "text": ""}
+      ],
+      "attack_type": null
+    },
+    {
+      "id": "E02",
+      "difficulty": "easy",
+      "question": "",
+      "expected_answer": "",
+      "contexts": [
+        {"source_doc": "", "text": ""}
+      ],
+      "attack_type": null
+    },
+    {
+      "id": "E03",
+      "difficulty": "easy",
+      "question": "",
+      "expected_answer": "",
+      "contexts": [
+        {"source_doc": "", "text": ""}
+      ],
+      "attack_type": null
+    },
+    {
+      "id": "E04",
+      "difficulty": "easy",
+      "question": "",
+      "expected_answer": "",
+      "contexts": [
+        {"source_doc": "", "text": ""}
+      ],
+      "attack_type": null
+    },
+    {
+      "id": "E05",
+      "difficulty": "easy",
+      "question": "",
+      "expected_answer": "",
+      "contexts": [
+        {"source_doc": "", "text": ""}
+      ],
+      "attack_type": null
+    },
+    {
+      "id": "M01",
+      "difficulty": "medium",
+      "question": "",
+      "expected_answer": "",
+      "contexts": [
+        {"source_doc": "", "text": ""},
+        {"source_doc": "", "text": ""}
+      ],
+      "attack_type": null
+    },
+    {
+      "id": "M02",
+      "difficulty": "medium",
+      "question": "",
+      "expected_answer": "",
+      "contexts": [
+        {"source_doc": "", "text": ""},
+        {"source_doc": "", "text": ""}
+      ],
+      "attack_type": null
+    },
+    {
+      "id": "M03",
+      "difficulty": "medium",
+      "question": "",
+      "expected_answer": "",
+      "contexts": [
+        {"source_doc": "", "text": ""},
+        {"source_doc": "", "text": ""}
+      ],
+      "attack_type": null
+    },
+    {
+      "id": "M04",
+      "difficulty": "medium",
+      "question": "",
+      "expected_answer": "",
+      "contexts": [
+        {"source_doc": "", "text": ""},
+        {"source_doc": "", "text": ""}
+      ],
+      "attack_type": null
+    },
+    {
+      "id": "M05",
+      "difficulty": "medium",
+      "question": "",
+      "expected_answer": "",
+      "contexts": [
+        {"source_doc": "", "text": ""},
+        {"source_doc": "", "text": ""}
+      ],
+      "attack_type": null
+    },
+    {
+      "id": "M06",
+      "difficulty": "medium",
+      "question": "",
+      "expected_answer": "",
+      "contexts": [
+        {"source_doc": "", "text": ""},
+        {"source_doc": "", "text": ""}
+      ],
+      "attack_type": null
+    },
+    {
+      "id": "M07",
+      "difficulty": "medium",
+      "question": "",
+      "expected_answer": "",
+      "contexts": [
+        {"source_doc": "", "text": ""},
+        {"source_doc": "", "text": ""}
+      ],
+      "attack_type": null
+    },
+    {
+      "id": "H01",
+      "difficulty": "hard",
+      "question": "",
+      "expected_answer": "",
+      "contexts": [
+        {"source_doc": "", "text": ""},
+        {"source_doc": "", "text": ""}
+      ],
+      "attack_type": null
+    },
+    {
+      "id": "H02",
+      "difficulty": "hard",
+      "question": "",
+      "expected_answer": "",
+      "contexts": [
+        {"source_doc": "", "text": ""},
+        {"source_doc": "", "text": ""}
+      ],
+      "attack_type": null
+    },
+    {
+      "id": "H03",
+      "difficulty": "hard",
+      "question": "",
+      "expected_answer": "",
+      "contexts": [
+        {"source_doc": "", "text": ""},
+        {"source_doc": "", "text": ""}
+      ],
+      "attack_type": null
+    },
+    {
+      "id": "H04",
+      "difficulty": "hard",
+      "question": "",
+      "expected_answer": "",
+      "contexts": [
+        {"source_doc": "", "text": ""},
+        {"source_doc": "", "text": ""}
+      ],
+      "attack_type": null
+    },
+    {
+      "id": "H05",
+      "difficulty": "hard",
+      "question": "",
+      "expected_answer": "",
+      "contexts": [
+        {"source_doc": "", "text": ""},
+        {"source_doc": "", "text": ""}
+      ],
+      "attack_type": null
+    },
+    {
+      "id": "A01",
+      "difficulty": "adversarial",
+      "question": "",
+      "expected_answer": "",
+      "contexts": [
+        {"source_doc": "00_system_scope.md", "text": ""}
+      ],
+      "attack_type": "out_of_scope"
+    },
+    {
+      "id": "A02",
+      "difficulty": "adversarial",
+      "question": "",
+      "expected_answer": "",
+      "contexts": [
+        {"source_doc": "00_system_scope.md", "text": ""}
+      ],
+      "attack_type": "prompt_injection"
+    },
+    {
+      "id": "A03",
+      "difficulty": "adversarial",
+      "question": "",
+      "expected_answer": "",
+      "contexts": [
+        {"source_doc": "00_system_scope.md", "text": ""}
+      ],
+      "attack_type": "false_premise_or_ambiguous_trap"
+    }
+  ]
+}
