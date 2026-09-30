@@ -2,7 +2,7 @@
 
 ## 1. Hình thức nộp bài
 - Bài tập được thực hiện theo hình thức **cá nhân**.
-- **Mỗi cá nhân phải tự nộp link repo của mình lên hệ thống LMS / Codelab** theo thông báo của giảng viên hoặc coach (mỗi học viên một repository riêng, không nộp hộ, không dùng chung repo).
+- **Mỗi cá nhân phải tự nộp link repo của mình lên hệ thống Codelab** theo thông báo của giảng viên hoặc coach (mỗi học viên một repository riêng, không nộp hộ, không dùng chung repo).
 - Repository phải được để ở chế độ Public (hoặc cấp quyền truy cập cho giảng viên / coach nếu được yêu cầu).
 
 ## 2. Quy chuẩn đặt tên Repository
@@ -39,7 +39,7 @@ Các file sinh ra trong quá trình chạy (artifacts) là tùy chọn (optional
 > ⚠️ **CẢNH BÁO BẢO MẬT:** Tuyệt đối **KHÔNG commit** file `.env`, OpenAI API key hoặc bất kỳ thông tin bí mật nào lên GitHub repository. Vi phạm sẽ bị trừ **10 điểm**.
 
 ## 4. Nơi nộp và Hạn nộp (Deadline)
-- **Nơi nộp:** Nộp link GitHub repository cá nhân lên LMS / Codelab.
+- **Nơi nộp:** Nộp link GitHub repository cá nhân lên Codelab.
 - **Hạn chót mặc định:** **23h59 ngày lab (GMT+7)**.
 - Coach có thể gia hạn tối đa không quá **48 giờ (≤48h)** đối với các trường hợp đặc biệt có lý do chính đáng được phê duyệt trước.
 

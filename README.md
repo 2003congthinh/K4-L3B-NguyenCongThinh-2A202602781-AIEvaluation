@@ -29,7 +29,7 @@ Tài liệu chính thức của bài lab:
 
 > ⚠️ **Đặt sai tên repo = trừ 5 điểm** theo quy định trong [RUBRIC.md](RUBRIC.md).
 
-Bài lab là **bài làm cá nhân**. **Mỗi cá nhân phải tự nộp link repo của mình lên LMS / Codelab** (không nộp hộ, không dùng chung repository).  
+Bài lab là **bài làm cá nhân**. **Mỗi cá nhân phải tự nộp link repo của mình lên Codelab** (không nộp hộ, không dùng chung repository).  
 Hạn nộp mặc định: **23h59 ngày lab (GMT+7)**; coach có thể gia hạn tối đa ≤48h.
 
 ---

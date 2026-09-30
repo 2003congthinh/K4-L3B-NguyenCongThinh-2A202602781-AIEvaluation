@@ -293,7 +293,7 @@ Sau phần bắt buộc, bạn có thể làm Exercise 3.4 (**+5**) để so sá
 
 ## Kiểm tra và nộp repository cá nhân
 
-Bạn nộp **link repository GitHub cá nhân lên LMS / Codelab** theo thông báo của giảng viên hoặc coach. Trước khi gửi link, kiểm tra bài trên chính repository sẽ nộp để người chấm mở được code và báo cáo.
+Bạn nộp **link repository GitHub cá nhân lên Codelab** theo thông báo của giảng viên hoặc coach. Trước khi gửi link, kiểm tra bài trên chính repository sẽ nộp để người chấm mở được code và báo cáo.
 
 1. Kiểm tra thư mục gốc theo mẫu `K4-DAY14-HoVaTen-MSSV` và repository GitHub theo mẫu `K4-L3B-DAY14-<HoVaTen>-<MSSV>-AIEvaluation`. Thay thông tin bằng họ tên, MSSV thật của bạn. Giữ các file starter cần chạy lại bài; bốn deliverables bắt buộc là:
 
@@ -317,7 +317,7 @@ Bạn nộp **link repository GitHub cá nhân lên LMS / Codelab** theo thông 
 
 3. Kiểm tra thay đổi rồi commit, push theo workflow Git của lớp. Không đưa `.env`, API key hoặc dữ liệu nhạy cảm lên GitHub. Hai artifacts là file nộp tùy chọn, nhưng Exercises 3.2 và reflection phải dựa trên kết quả chạy thật. Không sửa tests để đạt checkpoint.
 
-4. Mở lại repository trên GitHub, kiểm tra bốn deliverables đã cập nhật. Để Public hoặc cấp quyền cho giảng viên/coach theo yêu cầu, rồi tự nộp link lên LMS / Codelab. Hạn mặc định là **12h trưa ngày hôm sau lab (GMT+7)**.
+4. Mở lại repository trên GitHub, kiểm tra bốn deliverables đã cập nhật. Để Public hoặc cấp quyền cho giảng viên/coach theo yêu cầu, rồi tự nộp link lên Codelab. Hạn mặc định là **12h trưa ngày hôm sau lab (GMT+7)**.
 
 Rubric chính thức phân bổ điểm như sau:
 

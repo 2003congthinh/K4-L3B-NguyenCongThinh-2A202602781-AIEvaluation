@@ -2,7 +2,7 @@
 
 ## 1. Hình thức làm bài
 - Lab là bài tập **cá nhân**.
-- Mỗi học viên tự làm trên repository của mình và nộp link repository cá nhân lên LMS / Codelab.
+- Mỗi học viên tự làm trên repository của mình và nộp link repository cá nhân lên Codelab.
 - Không làm bài theo nhóm, không dùng chung repository.
 
 ## 2. Quy định sử dụng AI
